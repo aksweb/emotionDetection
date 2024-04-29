@@ -1,4 +1,5 @@
-# Data Mining Project:  Emotion Detection in Real-Time Video (With KDD analysis)
+# Data Mining Project: <br>
+# Emotion Detection in Real-Time Video (With KDD analysis)
 
 ## Overview
 This project focuses on detecting emotions in real-time video streams using deep learning techniques. The model is trained on facial expression data to predict emotions in live video feeds.
